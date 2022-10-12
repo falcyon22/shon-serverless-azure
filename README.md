@@ -1,2 +1,2 @@
 # shon-serverless-azure
-Shon's azure experiments
+Shon's azure experiments for USB
